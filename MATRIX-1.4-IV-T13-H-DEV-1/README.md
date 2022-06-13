@@ -9,7 +9,7 @@ the toggle flip-flop or T-type flip-flop principle.
 
 A TFF-like stepper is a sequential stepper that designed to work like a
 toggle flip-flop. It will switch the power supply rails straightforwardly
-even power amplifier reach 20 kHz signal amplification.
+even if the power amplifier reach 20 kHz signal amplification.
 
 The TFF-like principle application will prevent unexpected drop of the
 stepper switching by locking the stepper sensing input with the positive
