@@ -12,5 +12,8 @@ toggle flip-flop. It will switch the power supply rails straightforwardly
 even power amplifier reach 20 kHz signal amplification.
 
 The TFF-like principle application will prevent unexpected drop of the
-switching sequence by locking the stepper sensing input with the positive
-feedback, like a toggled TFF.
+stepper switching by locking the stepper sensing input with the positive
+feedback, like a toggled TFF. The locking will allow the stepper to wait
+the power amplifier output amplitude turn back into the level bellow the
+designated lower toggle level voltage upon the switching sequence is
+occurring.
