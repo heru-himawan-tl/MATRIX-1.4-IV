@@ -882,14 +882,17 @@
     (path "/00000000-0000-0000-0000-000060b22bae/4e3867af-0ff3-4cbe-9ceb-f65b75a48d35"
       (reference "C403") (unit 1) (value "47pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
     )
+    (path "/00000000-0000-0000-0000-000060b22bae/c6d32e99-4ab1-463c-ae80-e3e014f8114b"
+      (reference "C404") (unit 1) (value "47pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
+    )
     (path "/00000000-0000-0000-0000-000060b22bae/16e0e508-af66-422d-8733-fa24a76c8e42"
-      (reference "C404") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:CAPACITOR_MPF_STD")
+      (reference "C405") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:CAPACITOR_MPF_STD")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/95fffd54-5ae5-4b48-95eb-43c134717041"
-      (reference "C405") (unit 1) (value "47pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
+      (reference "C406") (unit 1) (value "47pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/a31467c3-033c-4c21-8a0a-950b96ad0d98"
-      (reference "C406") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:CAPACITOR_MPF_STD")
+      (reference "C407") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:CAPACITOR_MPF_STD")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d5aa3bf5-2d96-46a0-8f18-95db86cfdf7e"
       (reference "C501") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
@@ -902,9 +905,6 @@
     )
     (path "/00000000-0000-0000-0000-000060b22bae/2b24a2f9-6b32-4065-8b95-251d23e0319b"
       (reference "C504") (unit 1) (value "47uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D7.62mm")
-    )
-    (path "/00000000-0000-0000-0000-000060b22bae/c6d32e99-4ab1-463c-ae80-e3e014f8114b"
-      (reference "C900") (unit 1) (value "47pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/be676e45-7f9a-4f77-8117-e1c30175ba58"
       (reference "D401") (unit 1) (value "1N4732") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_SI")
