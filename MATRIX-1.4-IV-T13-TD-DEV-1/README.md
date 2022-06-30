@@ -9,6 +9,7 @@ amplifier design. This model designed to yield at least 1400 watts RMS for
 The TD-class stepper within this model is a simple model without
 opto-coupler. It will work based the current detection. This TD-class
 stepper is completed with logical-side-enable-control to prevent the
-oscillation if the power amplifier in the idle state.
+oscillation if the power amplifier in the idle state. The idle voltage
+will remain in +4.8V and -4.8V.
 
 
