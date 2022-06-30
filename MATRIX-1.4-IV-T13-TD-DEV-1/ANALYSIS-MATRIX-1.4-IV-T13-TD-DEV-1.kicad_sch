@@ -699,10 +699,10 @@
       (reference "L701") (unit 1) (value "10uH") (footprint "")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/930dcb40-31c8-4487-970a-f67601bc1064"
-      (reference "Q401") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q401") (unit 1) (value "MPSA42") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/822a9526-f725-4b68-9fa4-6580f2296068"
-      (reference "Q402") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q402") (unit 1) (value "MPSA42") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/7688674a-d127-40c3-9d49-44a9e132ff95"
       (reference "Q403") (unit 1) (value "MJE340") (footprint "MATRIX_1.4:TO-225")
