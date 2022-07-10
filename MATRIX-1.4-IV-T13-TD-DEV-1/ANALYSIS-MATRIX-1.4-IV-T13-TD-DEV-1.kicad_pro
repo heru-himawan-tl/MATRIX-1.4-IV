@@ -305,8 +305,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 5,
-      "workbook_filename": ""
+      "model_mode": 2,
+      "workbook_filename": "ANALYSIS-MATRIX-1.4-IV-T13-TD-DEV-1.wbk"
     },
     "page_layout_descr_file": "A3_ISO5457-1999_ISO7200-2004_EN.kicad_wks",
     "plot_directory": "",

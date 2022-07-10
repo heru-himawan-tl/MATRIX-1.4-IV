@@ -795,3 +795,5 @@ E3 9 1 4 1 -2
 
 .model BAV21 D Is=546.9n N=2.854 Rs=.1647 Ikf=.1486 Xti=3 Eg=1.11 Cjo=1.456p M=.3333 Vj=.5 Fc=.5 Bv=250 Ibv=100u Tt=72.13n
 
+.model 1N4733 D Is=7.03E-16 N=1.27 Rs=0.871 Cj0=1.89E-10 Vj=0.75 M=0.33 Fc=0.5 Tt=5.01E-8 Bv=5.059 Ibv=0.049 Af=1 Kf=0
+
