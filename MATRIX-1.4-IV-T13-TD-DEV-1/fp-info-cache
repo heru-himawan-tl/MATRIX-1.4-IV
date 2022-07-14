@@ -1,4 +1,4 @@
-20294002271796293
+20295660034921128
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57624,28 +57624,28 @@ Yellow 5381 Series LED
 2
 2
 MATRIX_1.4
-0.1uF 250V Vishay Roederstein MKT 1822
+0.1uF_250V_Vishay_Roederstein_MKT_1822
 
 
 0
 2
 2
 MATRIX_1.4
-0.0022uF 400V Vishay Roederstein MKT 1822
+0.0022uF_400V_Vishay_Roederstein_MKT_1822
 
 
 0
 2
 2
 MATRIX_1.4
-1uF 250V ERO Roederstein Germany MKT 1822
+1uF_250V_ERO_Roederstein_Germany_MKT_1822
 
 
 0
 2
 2
 MATRIX_1.4
-1uF 250V Vishay Roederstein MKT 1822
+1uF_250V_Vishay_Roederstein_MKT_1822
 
 
 0
@@ -57826,6 +57826,13 @@ SOLDER-TAB-6.3-mm
 0
 2
 2
+MATRIX_1.4
+TO-92-CBE
+
+
+0
+3
+3
 MATRIX_1.4
 TO-92-EBC
 
