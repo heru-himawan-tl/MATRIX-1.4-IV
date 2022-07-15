@@ -651,10 +651,10 @@
       (reference "L401") (unit 1) (value "1uH") (footprint "MATRIX_1.4:INDUCTOR_AIR_CORE_3uH_D600mils_L750mils")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/e45b4277-9098-4a42-b7d0-c2fb22474d51"
-      (reference "L601") (unit 1) (value "10uH") (footprint "")
+      (reference "L601") (unit 1) (value "10uH") (footprint "MATRIX_1.4:TOROIDAL_INDUCTOR_0077083A7")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/c3d06cdd-c4e9-42c2-8d2c-26197d81911a"
-      (reference "L701") (unit 1) (value "10uH") (footprint "")
+      (reference "L701") (unit 1) (value "10uH") (footprint "MATRIX_1.4:TOROIDAL_INDUCTOR_0077083A7")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/930dcb40-31c8-4487-970a-f67601bc1064"
       (reference "Q401") (unit 1) (value "MPSA42") (footprint "MATRIX_1.4:TO-92-EBC")
