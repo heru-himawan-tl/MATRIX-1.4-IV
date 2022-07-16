@@ -569,20 +569,26 @@
     (path "/00000000-0000-0000-0000-000060b22bae/58f9f328-bf2d-4db8-8e86-c8deef768a45"
       (reference "C601") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
+    (path "/00000000-0000-0000-0000-000060b22bae/3e582a30-f691-4235-9416-6bfdbefdd328"
+      (reference "C602") (unit 1) (value "0.01uF") (footprint "MATRIX_1.4:0.1uF 250V Vishay Roederstein MKT 1822")
+    )
     (path "/00000000-0000-0000-0000-000060b22bae/d370cdcb-60e8-4bf8-b03a-2197ecf61040"
-      (reference "C602") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF 400V Vishay Roederstein MKT 1822")
+      (reference "C603") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF 400V Vishay Roederstein MKT 1822")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/f609e2ed-0bbd-4564-8dd7-99fa4ff0ebcf"
-      (reference "C603") (unit 1) (value "1uF") (footprint "MATRIX_1.4:1uF 250V Vishay Roederstein MKT 1822")
+      (reference "C604") (unit 1) (value "1uF") (footprint "MATRIX_1.4:1uF 250V Vishay Roederstein MKT 1822")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/0430b2f1-ce50-48cc-9473-4e64e1c7ac61"
       (reference "C701") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
+    (path "/00000000-0000-0000-0000-000060b22bae/273a3cdd-7c5e-4780-85b8-138b841055ed"
+      (reference "C702") (unit 1) (value "0.01uF") (footprint "MATRIX_1.4:0.1uF 250V Vishay Roederstein MKT 1822")
+    )
     (path "/00000000-0000-0000-0000-000060b22bae/8820ae39-51f9-47f8-a6f8-bfdf0a47206e"
-      (reference "C702") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF 400V Vishay Roederstein MKT 1822")
+      (reference "C703") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF 400V Vishay Roederstein MKT 1822")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/9d4ff47f-05fa-4189-a6f7-90eaf6379484"
-      (reference "C703") (unit 1) (value "1uF") (footprint "MATRIX_1.4:1uF 250V Vishay Roederstein MKT 1822")
+      (reference "C704") (unit 1) (value "1uF") (footprint "MATRIX_1.4:1uF 250V Vishay Roederstein MKT 1822")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/43acb333-9f39-401b-98fb-f126e0a34cb1"
       (reference "D401") (unit 1) (value "1N4732") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_SI")
