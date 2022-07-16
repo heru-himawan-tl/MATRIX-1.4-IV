@@ -603,10 +603,10 @@
       (reference "D603") (unit 1) (value "1N4734") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_SI")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/4ad9120e-e531-4eb4-97f7-d905000ef516"
-      (reference "D604") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D604") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/3f543b43-0c7c-4562-9946-7054146f4b34"
-      (reference "D605") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D605") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/70559793-6bcf-43ae-9890-69d8c389a6d0"
       (reference "D606") (unit 1) (value "BAV21") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
@@ -630,10 +630,10 @@
       (reference "D703") (unit 1) (value "1N4734") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_SI")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/e4048b14-a682-4018-81b1-6e319e391d8f"
-      (reference "D704") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D704") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/a95e0d7f-b24b-4602-bfac-2e269755c259"
-      (reference "D705") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D705") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ebd173f2-2904-4e23-b3fa-09013cfc1d4a"
       (reference "D706") (unit 1) (value "BAV21") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
