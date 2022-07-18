@@ -945,40 +945,40 @@
       (reference "R4151") (unit 1) (value "120") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/cce9960e-280c-4dfe-bff5-6e1b9c2d30b6"
-      (reference "R4181") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4181") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/f296d96d-edd9-474a-8c9c-4cfb9e235914"
-      (reference "R4182") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4182") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/baa86b5c-2acc-4a8c-a273-f29acc5b5104"
-      (reference "R4183") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4183") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/4223a399-6046-444e-b641-40b1fea9843b"
-      (reference "R4184") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4184") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/e53f720f-b37b-40bd-8b17-8e7299a9d5e0"
-      (reference "R4185") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4185") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d484de2b-8b5d-4c50-8ff1-44e70594b99a"
-      (reference "R4186") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4186") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/f0da6019-e037-43c2-af35-9f2499828736"
-      (reference "R4191") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4191") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/69c6cea8-23f1-4ff0-b5b2-93c26e16aa4d"
-      (reference "R4192") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4192") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/f267dac8-918a-4993-a7a1-0ea7e842cdf2"
-      (reference "R4193") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4193") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/79aaa155-887c-476e-bb9b-ef54fd595ab7"
-      (reference "R4194") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4194") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/16f57324-63fd-4f8f-9b71-d8c05e171c53"
-      (reference "R4195") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4195") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/7f6fd443-f890-4fa8-978a-dc04c334e3e3"
-      (reference "R4196") (unit 1) (value "0.15") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R4196") (unit 1) (value "0.33") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/69bdca01-3fd6-4b74-977d-4c52c317329c"
       (reference "RT401") (unit 1) (value "5k") (footprint "MATRIX_1.4:RESISTOR_ROUND_TRIMPOT_STD")
