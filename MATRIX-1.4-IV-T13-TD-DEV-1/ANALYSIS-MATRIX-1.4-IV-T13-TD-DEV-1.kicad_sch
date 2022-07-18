@@ -558,7 +558,7 @@
       (reference "C403") (unit 1) (value "220uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/295f78ed-9c85-41db-a4f5-f988f947a803"
-      (reference "C404") (unit 1) (value "220pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
+      (reference "C404") (unit 1) (value "220pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/80e6563e-14e8-419a-a178-90a0db91aa6a"
       (reference "C405") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:0.1uF_250V_Vishay_Roederstein_MKT_1822")
@@ -570,7 +570,7 @@
       (reference "C601") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/84b8f5d6-1be1-49a2-9cad-ba2ca688ac42"
-      (reference "C602") (unit 1) (value "330pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
+      (reference "C602") (unit 1) (value "330pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/aa9aa012-4a84-4b4f-ad77-f4dabe72ed54"
       (reference "C603") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
@@ -582,7 +582,7 @@
       (reference "C701") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ebec87b1-b202-4bbf-877d-3d341636a6e1"
-      (reference "C702") (unit 1) (value "330pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
+      (reference "C702") (unit 1) (value "330pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/75bd21e9-288a-4233-a60d-dbc4acde58e2"
       (reference "C703") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
