@@ -552,13 +552,13 @@
       (reference "C401") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/7ebff2b6-dcb6-489e-9757-e40cc50a9c5e"
-      (reference "C402") (unit 1) (value "220pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
+      (reference "C402") (unit 1) (value "220pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/c7dd1e31-42bf-4e9f-ada4-4ffdcbef391e"
       (reference "C403") (unit 1) (value "220uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/295f78ed-9c85-41db-a4f5-f988f947a803"
-      (reference "C404") (unit 1) (value "220pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_STD")
+      (reference "C404") (unit 1) (value "220pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/80e6563e-14e8-419a-a178-90a0db91aa6a"
       (reference "C405") (unit 1) (value "0.1uF") (footprint "MATRIX_1.4:0.1uF_250V_Vishay_Roederstein_MKT_1822")
@@ -569,8 +569,8 @@
     (path "/00000000-0000-0000-0000-000060b22bae/7aaced08-5f08-4177-8cd2-d5c7dced0b73"
       (reference "C601") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
-    (path "/00000000-0000-0000-0000-000060b22bae/b84a939f-f0b5-4515-a44e-34d6ffd8fd30"
-      (reference "C602") (unit 1) (value "0.01uF") (footprint "MATRIX_1.4:0.01uF_250V_Vishay_Roederstein_MKT_1818")
+    (path "/00000000-0000-0000-0000-000060b22bae/84b8f5d6-1be1-49a2-9cad-ba2ca688ac42"
+      (reference "C602") (unit 1) (value "330pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/aa9aa012-4a84-4b4f-ad77-f4dabe72ed54"
       (reference "C603") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
@@ -581,8 +581,8 @@
     (path "/00000000-0000-0000-0000-000060b22bae/a57b15c2-6e7a-4925-b0a3-2556209ccbbb"
       (reference "C701") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
-    (path "/00000000-0000-0000-0000-000060b22bae/f18c5ea6-4bcd-4717-b6ba-96d0bf8661fd"
-      (reference "C702") (unit 1) (value "0.01uF") (footprint "MATRIX_1.4:0.01uF_250V_Vishay_Roederstein_MKT_1818")
+    (path "/00000000-0000-0000-0000-000060b22bae/ebec87b1-b202-4bbf-877d-3d341636a6e1"
+      (reference "C702") (unit 1) (value "330pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.5mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/75bd21e9-288a-4233-a60d-dbc4acde58e2"
       (reference "C703") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
@@ -609,10 +609,10 @@
       (reference "D603") (unit 1) (value "1N4734") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_SI")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/05913487-2786-4f95-ba23-ed941f5da678"
-      (reference "D604") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D604") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ac453ae7-fd6b-43fa-807c-2459b145981c"
-      (reference "D605") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D605") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/8f169aa7-5622-4865-bf9d-cd9cd4eabef7"
       (reference "D606") (unit 1) (value "BAV21") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
@@ -636,10 +636,10 @@
       (reference "D703") (unit 1) (value "1N4734") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_SI")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/96c635a3-7e0f-41db-82a7-c41c073677e6"
-      (reference "D704") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D704") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/4d496dab-db41-4703-bc37-5fcf21c65fa7"
-      (reference "D705") (unit 1) (value "MUR810") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
+      (reference "D705") (unit 1) (value "MURF1560") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/4089f4df-8147-4bbb-83e5-c3856229a95c"
       (reference "D706") (unit 1) (value "BAV21") (footprint "MATRIX_1.4:DIODE_AXIAL_SMALL_GE")
