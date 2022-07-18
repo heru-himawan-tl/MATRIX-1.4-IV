@@ -7216,7 +7216,7 @@
     (effects (font (size 1.016 1.016)) (justify left bottom))
     (uuid a86eac8e-43d3-471c-a755-acc45a04a1df)
   )
-  (label "VSTCP" (at 234.95 43.18 270)
+  (label "VSTCP" (at 234.95 41.91 270)
     (effects (font (size 1.016 1.016)) (justify right bottom))
     (uuid b7c79f79-042c-442e-8287-9668c6b1c04b)
   )
