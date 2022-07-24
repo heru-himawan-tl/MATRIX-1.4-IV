@@ -894,7 +894,7 @@
       (reference "R611") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/36706415-976f-4312-a7d4-a6c91c24963d"
-      (reference "R612") (unit 1) (value "27") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R612") (unit 1) (value "15") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/a6eb0fdd-3ebd-4624-854b-45494c7d8614"
       (reference "R613") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
@@ -939,7 +939,7 @@
       (reference "R711") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/2167f5d1-ac35-43cf-8e8c-39b84742986c"
-      (reference "R712") (unit 1) (value "27") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R712") (unit 1) (value "15") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/50053273-fdb3-408a-898d-2f8d2fd781ec"
       (reference "R713") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
