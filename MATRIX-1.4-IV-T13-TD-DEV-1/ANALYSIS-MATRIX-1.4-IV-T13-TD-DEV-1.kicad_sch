@@ -594,10 +594,10 @@
       (reference "C410") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/7aaced08-5f08-4177-8cd2-d5c7dced0b73"
-      (reference "C601") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
+      (reference "C601") (unit 1) (value "4.7uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/84b8f5d6-1be1-49a2-9cad-ba2ca688ac42"
-      (reference "C602") (unit 1) (value "180pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C602") (unit 1) (value "100pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/aa9aa012-4a84-4b4f-ad77-f4dabe72ed54"
       (reference "C603") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
@@ -606,10 +606,10 @@
       (reference "C604") (unit 1) (value "1uF") (footprint "MATRIX_1.4:0.1uF_250V_Vishay_Roederstein_MKT_1822")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/a57b15c2-6e7a-4925-b0a3-2556209ccbbb"
-      (reference "C701") (unit 1) (value "10uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
+      (reference "C701") (unit 1) (value "4.7uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ebec87b1-b202-4bbf-877d-3d341636a6e1"
-      (reference "C702") (unit 1) (value "180pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C702") (unit 1) (value "100pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d4af786d-ce6a-4fae-b270-4fd52c1f0fed"
       (reference "C703") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
@@ -728,62 +728,56 @@
     (path "/00000000-0000-0000-0000-000060b22bae/51eca065-317c-4ffb-913b-a30a0173ebbc"
       (reference "Q601") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
-    (path "/00000000-0000-0000-0000-000060b22bae/5bf840ab-fdf9-4577-ae84-7607d4387da9"
-      (reference "Q602") (unit 1) (value "MJE340") (footprint "MATRIX_1.4:TO-225")
-    )
     (path "/00000000-0000-0000-0000-000060b22bae/b691a8e2-7fae-451a-ba78-5bc5d53dd518"
-      (reference "Q603") (unit 1) (value "MJE15032") (footprint "MATRIX_1.4:TO-220-MIRRORED")
+      (reference "Q602") (unit 1) (value "MJE15032") (footprint "MATRIX_1.4:TO-220-MIRRORED")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/af53bab5-292d-4846-b958-dae1c46d0d49"
-      (reference "Q604") (unit 1) (value "2SC5200") (footprint "MATRIX_1.4:TO-264-MIRRORED")
+      (reference "Q603") (unit 1) (value "2SC5200") (footprint "MATRIX_1.4:TO-264-MIRRORED")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/4d22a551-54e8-491d-b8c8-ebaa2a15ea30"
-      (reference "Q605") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q604") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/434d8b82-49fe-49cf-851f-b594be88e518"
-      (reference "Q606") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q605") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/afc201e9-0b37-4447-9228-603121ef35fe"
-      (reference "Q607") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q606") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/89bf8397-6a53-4929-8db1-af94a9c8dd04"
-      (reference "Q608") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q607") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/b2337eb2-597d-4118-8786-3c01ff0158d7"
-      (reference "Q609") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q608") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/a6748184-669b-42e5-944e-ae150c846440"
-      (reference "Q610") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q609") (unit 1) (value "2N5401") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/4b84997e-4c18-4263-a50b-c3254e69042f"
       (reference "Q701") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
-    (path "/00000000-0000-0000-0000-000060b22bae/ed65eaf6-9997-40be-9e01-87350c74352d"
-      (reference "Q702") (unit 1) (value "MJE350") (footprint "MATRIX_1.4:TO-225")
-    )
     (path "/00000000-0000-0000-0000-000060b22bae/34c12a3d-c81c-4c47-8bd7-1986399f18b3"
-      (reference "Q703") (unit 1) (value "MJE15033") (footprint "MATRIX_1.4:TO-220-MIRRORED")
+      (reference "Q702") (unit 1) (value "MJE15033") (footprint "MATRIX_1.4:TO-220-MIRRORED")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/0c1f5683-0821-49f5-9713-a670a028880a"
-      (reference "Q704") (unit 1) (value "2SA1943") (footprint "MATRIX_1.4:TO-264-MIRRORED")
+      (reference "Q703") (unit 1) (value "2SA1943") (footprint "MATRIX_1.4:TO-264-MIRRORED")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/83693d28-137a-4611-b3a6-879b583a9e37"
-      (reference "Q705") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q704") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d50e0db3-d4e3-4f32-b318-286dd3173bda"
-      (reference "Q706") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q705") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/2c084142-fab0-47f0-9e2c-5897ac47d47d"
-      (reference "Q707") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q706") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/50d91c83-517e-4a9e-a3ab-47cee6f3de47"
-      (reference "Q708") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q707") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/2135e5a9-e906-4367-8012-5cafab748066"
-      (reference "Q709") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q708") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/59f525a7-ae50-46e4-9f3b-00998a67d1d7"
-      (reference "Q710") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
+      (reference "Q709") (unit 1) (value "2N5551") (footprint "MATRIX_1.4:TO-92-EBC")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/b0bdeee8-1c5d-4874-bbc6-bf5957762001"
       (reference "Q4131") (unit 1) (value "2SC5200") (footprint "MATRIX_1.4:TO-264-MIRRORED")
@@ -852,91 +846,79 @@
       (reference "R601") (unit 1) (value "1.2k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/fddbd843-9cfe-4f0c-8be9-b32280a57237"
-      (reference "R602") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R602") (unit 1) (value "22k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/3f4789ad-506f-4d2c-800a-86acea8abe48"
-      (reference "R603") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
-    )
-    (path "/00000000-0000-0000-0000-000060b22bae/383e14da-53ba-4cf0-8032-309d8731aeed"
-      (reference "R604") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
-    )
-    (path "/00000000-0000-0000-0000-000060b22bae/ff39eac3-bf67-44c7-a0e8-d9f04a645765"
-      (reference "R605") (unit 1) (value "1.5k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R603") (unit 1) (value "22k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/6623f1f7-d686-44e2-ab29-944748923d51"
-      (reference "R606") (unit 1) (value "56") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R604") (unit 1) (value "120") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/5cbc7ba6-6794-4c09-8de8-c8c516041c80"
-      (reference "R607") (unit 1) (value "1") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R605") (unit 1) (value "1") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d52019e2-d426-4603-be89-7d8c81d1eb1b"
-      (reference "R608") (unit 1) (value "150") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
+      (reference "R606") (unit 1) (value "150") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/935256e1-c502-4865-8f24-05c0e1ad518e"
-      (reference "R609") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R607") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/fe35be75-fc69-4d25-916c-6bd1230a12e3"
-      (reference "R610") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R608") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/f879478b-8326-42ef-bfc2-834ec5d143b3"
-      (reference "R611") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R609") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/36706415-976f-4312-a7d4-a6c91c24963d"
-      (reference "R612") (unit 1) (value "15") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R610") (unit 1) (value "15") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/a6eb0fdd-3ebd-4624-854b-45494c7d8614"
-      (reference "R613") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R611") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/e357ba4f-22ea-432c-84e5-5970a67a639b"
-      (reference "R614") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R612") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d739a599-7e7f-40f9-9111-5071a6606167"
-      (reference "R615") (unit 1) (value "680") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R613") (unit 1) (value "680") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ac83e629-bb84-4e0e-a4bc-11b4c245362a"
       (reference "R701") (unit 1) (value "1.2k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/78d41600-d685-4b5f-b7d2-713273ff8c51"
-      (reference "R702") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R702") (unit 1) (value "22k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/c20d42ae-2940-4c67-92d4-31a22d3c0ddb"
-      (reference "R703") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
-    )
-    (path "/00000000-0000-0000-0000-000060b22bae/bb18694f-3d0e-4792-981f-8af06bf0beb5"
-      (reference "R704") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
-    )
-    (path "/00000000-0000-0000-0000-000060b22bae/134a9bd0-f4a5-4d2b-8716-e696999763f4"
-      (reference "R705") (unit 1) (value "1.5k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R703") (unit 1) (value "22k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/530b002c-5608-4c27-9264-5584507b6312"
-      (reference "R706") (unit 1) (value "56") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R704") (unit 1) (value "120") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/27751e38-7c95-4202-bdf8-988915dda49f"
-      (reference "R707") (unit 1) (value "1") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
+      (reference "R705") (unit 1) (value "1") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/c71b9bd9-c26b-48b9-bc31-b4e2a83665c1"
-      (reference "R708") (unit 1) (value "150") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
+      (reference "R706") (unit 1) (value "150") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/2946d021-5f05-4aae-8269-acf97f3d0629"
-      (reference "R709") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R707") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/810ec345-9ddb-4c77-bedb-12f227fbc1e9"
-      (reference "R710") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R708") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/026b555f-f72f-4768-8034-4024ee192fc9"
-      (reference "R711") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R709") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/2167f5d1-ac35-43cf-8e8c-39b84742986c"
-      (reference "R712") (unit 1) (value "15") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R710") (unit 1) (value "15") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/50053273-fdb3-408a-898d-2f8d2fd781ec"
-      (reference "R713") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R711") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/680ef483-5278-47ea-ae56-9cb2b679ef72"
-      (reference "R714") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R712") (unit 1) (value "27k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/0e2526e3-5fb3-4aed-a9b1-582d7d6b883c"
-      (reference "R715") (unit 1) (value "680") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R713") (unit 1) (value "680") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ed300b36-d2e7-452b-befa-ce35218ce895"
       (reference "R4021") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
