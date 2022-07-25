@@ -249,7 +249,7 @@
     (effects (font (size 1.905 1.905)) (justify left bottom))
     (uuid 5b2b5c7d-f943-4634-9f0a-e9561705c49d)
   )
-  (text "* Transient analysis directive for 1KHz with input at 1.41Vp\n* To apply the directive, please uncomment the line below.\n.tran 0.1u 1m\n.fourier 1k v(vmout)"
+  (text "* Transient analysis directive for 1KHz with input at 1.41Vp\n* To apply the directive, please uncomment the line below.\n*.tran 0.1u 1m\n*.fourier 1k v(vmout)"
     (at 38.1 148.59 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5cbb5968-dbb5-4b84-864a-ead1cacf75b9)
@@ -597,7 +597,7 @@
       (reference "C601") (unit 1) (value "4.7uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/84b8f5d6-1be1-49a2-9cad-ba2ca688ac42"
-      (reference "C602") (unit 1) (value "100pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C602") (unit 1) (value "68pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/aa9aa012-4a84-4b4f-ad77-f4dabe72ed54"
       (reference "C603") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")
@@ -609,7 +609,7 @@
       (reference "C701") (unit 1) (value "4.7uF") (footprint "MATRIX_1.4:CAPACITOR_AE_D10mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/ebec87b1-b202-4bbf-877d-3d341636a6e1"
-      (reference "C702") (unit 1) (value "100pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
+      (reference "C702") (unit 1) (value "68pF") (footprint "MATRIX_1.4:CAPACITOR_CERAMIC_LEAD_PITCH_7.62mm")
     )
     (path "/00000000-0000-0000-0000-000060b22bae/d4af786d-ce6a-4fae-b270-4fd52c1f0fed"
       (reference "C703") (unit 1) (value "2200pF") (footprint "MATRIX_1.4:0.0022uF_400V_Vishay_Roederstein_MKT_1822")

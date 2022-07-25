@@ -1,0 +1,13 @@
+1
+9
+.tran 100n 1m
+3
+1
+/POWER-AMP/VSAVP
+V
+1
+/POWER-AMP/VSFP
+V
+1
+VMOUT
+V
