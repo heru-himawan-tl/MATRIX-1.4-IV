@@ -1,4 +1,4 @@
-# MATRIX 1.4 IV T13 Class-TD Development Release I
+# MATRIX 1.4 IV T13 Class-TD Development Release 1
 
 This is development release 1 of class-TD (tracking digital) of MATRIX 1.4
 IV T13 audio power amplifier design. This model designed to yield at least
