@@ -735,16 +735,16 @@
       (reference "R420") (unit 1) (value "10") (footprint "MATRIX_1.4:RESISTOR_BLOCK_5W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/84c12c97-1d66-4488-b0c2-b6d59c5e5f82"
-      (reference "R601") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R601") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/fddbd843-9cfe-4f0c-8be9-b32280a57237"
-      (reference "R602") (unit 1) (value "120k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R602") (unit 1) (value "120k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/3f4789ad-506f-4d2c-800a-86acea8abe48"
-      (reference "R603") (unit 1) (value "120k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R603") (unit 1) (value "120k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/6623f1f7-d686-44e2-ab29-944748923d51"
-      (reference "R604") (unit 1) (value "1.5k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R604") (unit 1) (value "1.5k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/01a79b14-929e-47b2-8a58-0f842df39574"
       (reference "R605") (unit 1) (value "56") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
@@ -756,28 +756,28 @@
       (reference "R607") (unit 1) (value "150") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/ce9f4e49-92b3-40d2-b075-63676d67afb1"
-      (reference "R608") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R608") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/c32ab03e-1094-4222-81b4-2b2083b169a9"
-      (reference "R609") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R609") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/935256e1-c502-4865-8f24-05c0e1ad518e"
-      (reference "R610") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R610") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/201cf1db-7a02-47ab-80ec-806c9e2d7ec9"
-      (reference "R611") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R611") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/eefb709c-4740-4f61-941d-e2f1f028d5ec"
-      (reference "R612") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R612") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/aba55e03-7ec7-4f10-a1b8-63e45d33d7b0"
-      (reference "R613") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R613") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/dec4b2ba-99fd-434d-a2f0-439fe5431409"
       (reference "R614") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/b7157ed7-167c-4c89-af08-0c75e46f5001"
-      (reference "R615") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R615") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/36706415-976f-4312-a7d4-a6c91c24963d"
       (reference "R616") (unit 1) (value "4.7") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
@@ -792,7 +792,7 @@
       (reference "R619") (unit 1) (value "680") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/ac83e629-bb84-4e0e-a4bc-11b4c245362a"
-      (reference "R701") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R701") (unit 1) (value "12k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/78d41600-d685-4b5f-b7d2-713273ff8c51"
       (reference "R702") (unit 1) (value "120k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
@@ -801,7 +801,7 @@
       (reference "R703") (unit 1) (value "120k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/530b002c-5608-4c27-9264-5584507b6312"
-      (reference "R704") (unit 1) (value "1.5k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R704") (unit 1) (value "1.5k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/817fb574-6b0a-45c9-aa01-326958fb0807"
       (reference "R705") (unit 1) (value "56") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
@@ -813,19 +813,19 @@
       (reference "R707") (unit 1) (value "150") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/2946d021-5f05-4aae-8269-acf97f3d0629"
-      (reference "R708") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R708") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/aab742b5-656c-4359-bb64-107721bceff2"
-      (reference "R709") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R709") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/4e6f60a8-5977-4ab6-9218-c72c01a71a7b"
-      (reference "R710") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R710") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/810ec345-9ddb-4c77-bedb-12f227fbc1e9"
       (reference "R711") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/85dee4c6-2c92-4358-804b-874a6a4130d1"
-      (reference "R712") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R712") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/7e3306e2-c595-4686-bcdd-210006e58714"
       (reference "R713") (unit 1) (value "15k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
@@ -834,7 +834,7 @@
       (reference "R714") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/026b555f-f72f-4768-8034-4024ee192fc9"
-      (reference "R715") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
+      (reference "R715") (unit 1) (value "2.7k") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.25W")
     )
     (path "/081160d6-8bae-47d7-99a5-496b5c31d2d9/2167f5d1-ac35-43cf-8e8c-39b84742986c"
       (reference "R716") (unit 1) (value "4.7") (footprint "MATRIX_1.4:RESISTOR_AXIAL_0.5W")
