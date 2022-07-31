@@ -185,4 +185,5 @@ R614 Net-_Q609-Pad2_ Net-_D607-Pad2_ 2.7k
 Q609 Net-_Q609-Pad1_ Net-_Q609-Pad2_ Net-_D606-Pad2_ 2N5401
 R612 Net-_Q609-Pad2_ VSGSPP 2.7k
 R615 Net-_Q609-Pad1_ VSGSPP 2.7k
+.tran 0.1u 1m
 .end
