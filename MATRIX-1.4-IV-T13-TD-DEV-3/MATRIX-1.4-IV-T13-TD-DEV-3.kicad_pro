@@ -317,7 +317,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -331,7 +331,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MATRIX-1.4-IV-T13-TD-DEV-1.kicad_pro",
+    "filename": "MATRIX-1.4-IV-T13-TD-DEV-3.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -351,7 +351,7 @@
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
+        "wire_width": 10.0
       }
     ],
     "meta": {
@@ -363,7 +363,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "MATRIX-1.4-IV-T13-TD-DEV-1.net",
+      "netlist": "",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -373,7 +373,7 @@
   "schematic": {
     "annotate_start_num": 0,
     "drawing": {
-      "default_line_thickness": 6.0,
+      "default_line_thickness": 10.0,
       "default_text_size": 50.0,
       "field_names": [],
       "intersheets_ref_own_page": false,
@@ -381,10 +381,10 @@
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
-      "junction_size_choice": 3,
+      "junction_size_choice": 2,
       "label_size_ratio": 0.375,
       "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.15
+      "text_offset_ratio": 0.0
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -401,7 +401,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "${KICAD6_TEMPLATE_DIR}/A3_ISO5457-1999_ISO7200-2004_EN.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -410,8 +410,16 @@
   },
   "sheets": [
     [
-      "c144caa5-b0d4-4cef-840a-d4ad178a2102",
+      "120a7b0f-ddfd-4447-85c1-35665465acdb",
       ""
+    ],
+    [
+      "f521c19e-ff01-4998-aa2a-8d287e4e9b7c",
+      "POWER-AMP"
+    ],
+    [
+      "59ede578-73aa-491f-916e-4584e0c010e3",
+      "PROTECTION-SYSTEM"
     ]
   ],
   "text_variables": {}
