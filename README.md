@@ -65,7 +65,7 @@ available to purchase. The design files are available in different formats
 by demand, either in separated PDF files or separated Gerber files.
 
 To purchase the PCB Layout design, please contact the developer representative
-at Indonesia via WhatsApp chat +62-813-1720-8524.
+at Indonesia via email heru.htl.83 at gmail.com
 
 ### Getting The Physical PCB / Printed Circuit Board
 
@@ -73,7 +73,7 @@ The physical printed circuit boards are available for purchase only at
 Indonesia.
 
 Please contact the developer representative at Indonesia about the purchasing
-information via WhatsApp chat +62-813-1720-8524. 
+information via email heru.htl.83 at gmail.com
 
 ## LICENSE
 
